@@ -1,0 +1,5 @@
+flask
+cors
+gunicorn
+pytest
+flask
